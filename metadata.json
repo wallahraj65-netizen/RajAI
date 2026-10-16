@@ -1,0 +1,6 @@
+{
+  "name": "Raj AI - All-in-One AI Assistant",
+  "description": "Production-ready Android AI assistant application featuring AI Chat, Story Generation, Image Studio, Video Prompts, Study Assistant, Coding Debugger, YouTube Creator Tools, and Voice Tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
